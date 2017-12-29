@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-react-class": "15.6.2",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  },
+  "devDependencies": {
+    "webpack": "3.9.1"
+  }
+}
